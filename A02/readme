@@ -1,0 +1,6 @@
+Its Based on OpenMP.
+Cache optimised and several mp_s(good,bad,thrashed)
+
+contains a file "opt.cpp" and 2 textfiles as output.
+
+Running command: g++ <inputfilename> -o <outputfilename> -fopenmp
